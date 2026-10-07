@@ -24,3 +24,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
+
+<!-- repo:N00230920@145556689/notes_app_cm@1405974197:ref:refs/heads/main -->
